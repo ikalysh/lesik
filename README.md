@@ -1,18 +1,23 @@
-<img align="right" width="200" height="200" src="https://github.com/ikalysh/lesik/blob/master/_images/Invest_Logo.jpg">
+<img align="right" width="300" height="200" src="https://github.com/ikalysh/lesik/blob/master/_images/Invest_Logo.jpg">
 
 
 # Inve2stCars
 Simulates the diffusion of alternative vehicles (battery electric and hydrogen) until 2050 on the basis of Discret Choice model.
 
-Assume you want to see Total CO2 emissions from Results folder [CO2 emissions](https://github.com/ikalysh/lesik/blob/master/results/Class3_upper_average__False_S1_moderate_afv_logit_%7B%7D/Co2_emissions.png)
-Or if you want to see just Results folder [Results](https://github.com/ikalysh/lesik/tree/master/results/Class3_upper_average__False_S1_moderate_afv_logit_%7B%7D)
-If you want to see Car simulation python code go to [car python](https://github.com/ikalysh/lesik/blob/master/car_simulation.py)
+
+# The Project
+------
+Assume you want to see [Results](https://github.com/ikalysh/lesik/tree/master/results/Class3_upper_average__False_S1_moderate_afv_logit_%7B%7D) folder. 
+
+Or if you want to see [CO2 emissions](https://github.com/ikalysh/lesik/blob/master/results/Class3_upper_average__False_S1_moderate_afv_logit_%7B%7D/Co2_emissions.png) from Results folder. 
+
+If you want to see Car simulation python code go to [car python](https://github.com/ikalysh/lesik/blob/master/car_simulation.py).
 
 SUPPORT
 ------
 
 This project is supported by Federal Ministry for Economic Affairs and Energy for example
-<img align="right" width="200" height="200" src="https://github.com/ikalysh/lesik/blob/master/_images/funding.png">
+<img align="right" width="250" height="200" src="https://github.com/ikalysh/lesik/blob/master/_images/funding.png">
 
 
 LICENSE
