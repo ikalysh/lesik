@@ -24,4 +24,5 @@ LICENSE
 ------
 
 Copyright (C) 2020 Fraunhofer ISE for example
+<img align="center" width="300" height="100" src="https://github.com/ikalysh/lesik/blob/master/_images/Fraunhofer-ISE-logo.png">
 
