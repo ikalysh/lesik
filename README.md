@@ -17,7 +17,7 @@ SUPPORT
 ------
 
 This project is supported by Federal Ministry for Economic Affairs and Energy for example
-<img align="right" width="250" height="200" src="https://github.com/ikalysh/lesik/blob/master/_images/funding.png">
+<img align="right" width="150" height="100" src="https://github.com/ikalysh/lesik/blob/master/_images/funding.png">
 
 
 LICENSE
