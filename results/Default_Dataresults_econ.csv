@@ -1,0 +1,3 @@
+,,,,,,,,,,,,degree_autarky_wo_storage,degree_autarky_w_storage,own_consumption_wo_stor,own_consumption_w_stor,pay_back,NPV,IRR
+2050,single_family_house_2_persons,DE131,S2_pv_renewable_ninja_south,1.2,0.8,0.018,S1_PV_low_3_to10kW,S2_battery_low_path_6to12kWh,S_0_percent_degression,EEX_high,S3_high_price_hh,0.3954631402543924,0.5891732791841713,0.25157821584366796,0.37477019136617007,6.0,7347.162156695955,0.18595719493084834
+2050,single_family_house_2_persons,DE131,S2_pv_renewable_ninja_south,1.2,0.8,0.018,S1_PV_low_3_to10kW,S2_battery_low_path_6to12kWh,S_0_percent_degression,EEX_high,S1_low_price_hh,0.3954631402543924,0.5891732791841713,0.25157821584366796,0.37477019136617007,7.0,5601.931046282996,0.14254650913903755
